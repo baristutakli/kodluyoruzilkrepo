@@ -1,6 +1,7 @@
 # Patika Dersleri ilk Repo
 ## Markdown deneme
-![Proje Ekran Resmi](https://github.com/baristutakli/kodluyoruzilkrepo/blob/main/ss.png)
+### Resim Ekleme
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 git 
 * git init
 * git add <dosya ismi>
