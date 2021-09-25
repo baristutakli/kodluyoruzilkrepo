@@ -1,6 +1,7 @@
-# Patika dersleri github deneme
+# Patika Dersleri ilk Repo
 ## Markdown deneme
-
+![Proje Ekran Resmi](https://github.com/baristutakli/kodluyoruzilkrepo/blob/main/ss.png)
+git 
 * git init
 * git add <dosya ismi>
 * git add .
