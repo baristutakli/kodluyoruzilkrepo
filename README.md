@@ -2,7 +2,9 @@
 ## Markdown deneme
 ### Resim Ekleme
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-git 
+
+
+### Git Komutları
 * git init
 * git add <dosya ismi>
 * git add .
