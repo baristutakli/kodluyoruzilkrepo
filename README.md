@@ -1,0 +1,1 @@
+Patika dersleri github deneme
