@@ -17,8 +17,8 @@
 
 
 ### Resim Ekleme
-'![Resim](https://myoctocat.com/assets/images/base-octocat.svg=100x100)'
-![Resim](https://myoctocat.com/assets/images/base-octocat.svg=250x250)
+'![Resim](https://myoctocat.com/assets/images/base-octocat.svg width="250" height="250")'
+![Resim](https://myoctocat.com/assets/images/base-octocat.svg width="100" height="1000")
 
 ### Yazı Stilleri
 
