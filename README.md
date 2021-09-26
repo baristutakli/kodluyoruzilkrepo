@@ -16,7 +16,8 @@
 * **git clone**: Uzak bir sunucudaki dosyayı kopyalamamıza yarar.
 
 
-### Resim Ekleme
+### Resim Ekleme 
+Resim ekleme işleminin farklı yolları mevcuttur. Bunlardan biri <a> html etiketini kullanarak yapabilirsiniz. Diğer yol ise git '![resim](resmin url adresi)' şeklindedir.
 <a href="url"><img src="https://myoctocat.com/assets/images/base-octocat.svg" align="left" height="50" width="50" ></a>
 <a href="url"><img src="https://myoctocat.com/assets/images/base-octocat.svg" align="left" height="100" width="100" ></a>
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="250" height="250">
