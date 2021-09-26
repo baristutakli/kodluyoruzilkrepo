@@ -2,7 +2,7 @@
 ## Patika platformu üzerinde bulunan git dersi notlarım
 
 
-### Git Komutları ve kullanım amaçları
+### Bazı Git Komutları ve kullanım amaçları
 * **git init**: yeni bir proje oluşturğumuzda ilk kullandığımız komuttur.
 * **git add <dosya ismi>**: Bir dosyanın takip edilmesini istediğimizde kullanırız.
 * **git add .**: Bütün dosyaları takip etmek için kullanırız.
@@ -17,6 +17,14 @@
 
 
 ### Resim Ekleme
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+'![Resim](https://myoctocat.com/assets/images/base-octocat.svg)'
+![Resim](https://myoctocat.com/assets/images/base-octocat.svg)
 
+### Yazı Stilleri
+
+1. Bir metni **bold** olarak yazmak için metnin başlangıcına ve sonuna '**' veya '__'  eklenir.
+2. Bir metni *italic* yazmak için metnin başlangıcına ve sonuna '*'  eklenir.
+3. Bir metninin *üstünü çizmek* için metnin başlangıcına ve sonuna '~~'  eklenir.
+4. Bir metinin içinde farklı yazı sitilleri kullanabilirsiniz.
+5. Bütün metni **bold** ve *italic* yapmak için metnin başlangıcına ve sonuna '***'  eklenir.
 
